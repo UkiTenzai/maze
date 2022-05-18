@@ -4,8 +4,7 @@
 #include "setup.h"
 using namespace std;
 
-//add some commit
-//now in branch b
+//in a
 
 int main()
 {
