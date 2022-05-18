@@ -4,7 +4,7 @@
 #include "setup.h"
 using namespace std;
 
-//in a
+//in master
 
 int main()
 {
