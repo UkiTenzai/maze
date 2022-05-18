@@ -4,8 +4,6 @@
 #include "setup.h"
 using namespace std;
 
-//in master
-
 int main()
 {
     while (true)
